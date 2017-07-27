@@ -2,16 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a58280d0-8339-4c38-82b8-a0cc896a877e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/afternoon/7.24.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/bootstrap-resume-starting-point/学生成绩单/HTML/printreport.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main2.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/merge.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/package.json" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/html/printreport.html" afterPath="$PROJECT_DIR$/html/bootstrap-resume-starting-point/学生成绩单/HTML/添加学生成绩.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/afternoon/7.25-2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/afternoon/7.25.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/afternoon/7.26.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学生成绩单/studentgradesystem/ADDSTUDENT.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学生成绩单/studentgradesystem/display.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学生成绩单/studentgradesystem/printreport.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/bootstrap-resume-starting-point/学生成绩单/HTML/printreport.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/bootstrap-resume-starting-point/学生成绩单/HTML/添加学生成绩.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/bootstrap-resume-starting-point/index.html" afterPath="$PROJECT_DIR$/html/bootstrap-resume-starting-point/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app.js" afterPath="$PROJECT_DIR$/src/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/bootstrap-resume-starting-point/jquery-3.2.1.js" afterPath="$PROJECT_DIR$/html/bootstrap-resume-starting-point/jquery-3.2.1.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/_mocha" afterPath="$PROJECT_DIR$/node_modules/.bin/_mocha" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/chai/chai.js" afterPath="$PROJECT_DIR$/node_modules/chai/chai.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/chai/lib/chai/utils/inspect.js" afterPath="$PROJECT_DIR$/node_modules/chai/lib/chai/utils/inspect.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/deep-eql/deep-eql.js" afterPath="$PROJECT_DIR$/node_modules/deep-eql/deep-eql.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/deep-eql/node_modules/type-detect/index.js" afterPath="$PROJECT_DIR$/node_modules/deep-eql/node_modules/type-detect/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/lodash/index.js" afterPath="$PROJECT_DIR$/node_modules/lodash/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/lodash/internal/escapeHtmlChar.js" afterPath="$PROJECT_DIR$/node_modules/lodash/internal/escapeHtmlChar.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/lodash/internal/unescapeHtmlChar.js" afterPath="$PROJECT_DIR$/node_modules/lodash/internal/unescapeHtmlChar.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/lodash/string/escape.js" afterPath="$PROJECT_DIR$/node_modules/lodash/string/escape.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/lodash/string/template.js" afterPath="$PROJECT_DIR$/node_modules/lodash/string/template.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/lodash/string/unescape.js" afterPath="$PROJECT_DIR$/node_modules/lodash/string/unescape.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mocha/bin/_mocha" afterPath="$PROJECT_DIR$/node_modules/mocha/bin/_mocha" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mocha/lib/reporters/html.js" afterPath="$PROJECT_DIR$/node_modules/mocha/lib/reporters/html.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mocha/lib/reporters/xunit.js" afterPath="$PROJECT_DIR$/node_modules/mocha/lib/reporters/xunit.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mocha/lib/runner.js" afterPath="$PROJECT_DIR$/node_modules/mocha/lib/runner.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mocha/mocha.js" afterPath="$PROJECT_DIR$/node_modules/mocha/mocha.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sinon/pkg/sinon-2.3.8.js" afterPath="$PROJECT_DIR$/node_modules/sinon/pkg/sinon-2.3.8.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sinon/pkg/sinon-no-sourcemaps-2.3.8.js" afterPath="$PROJECT_DIR$/node_modules/sinon/pkg/sinon-no-sourcemaps-2.3.8.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sinon/pkg/sinon-no-sourcemaps.js" afterPath="$PROJECT_DIR$/node_modules/sinon/pkg/sinon-no-sourcemaps.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/sinon/pkg/sinon.js" afterPath="$PROJECT_DIR$/node_modules/sinon/pkg/sinon.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/type-detect/index.js" afterPath="$PROJECT_DIR$/node_modules/type-detect/index.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -27,30 +48,60 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="printreport.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/html/bootstrap-resume-starting-point/学生成绩单/HTML/printreport.html">
+        <entry file="file://$PROJECT_DIR$/学生成绩单/studentgradesystem/printreport.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-105">
-              <caret line="122" column="33" lean-forward="true" selection-start-line="122" selection-start-column="33" selection-end-line="122" selection-end-column="33" />
+            <state relative-caret-position="144">
+              <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+              <folding>
+                <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#1;n#form#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#2;n#form#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#3;n#form#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#4;n#form#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#5;n#form#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ADDSTUDENT.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/学生成绩单/studentgradesystem/ADDSTUDENT.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1234">
+              <caret line="22" column="36" lean-forward="false" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+              <folding>
+                <marker date="1501060835656" expanded="true" signature="1081:1497" ph="..." />
+                <marker date="1501060835656" expanded="true" signature="1270:1497" ph="..." />
+                <marker date="1501060835656" expanded="true" signature="1922:2338" ph="..." />
+                <marker date="1501060835656" expanded="true" signature="2111:2338" ph="..." />
+                <marker date="1501060835656" expanded="true" signature="2177:2338" ph="..." />
+                <marker date="1501060835656" expanded="true" signature="2740:3156" ph="..." />
+                <marker date="1501060835656" expanded="true" signature="2929:3156" ph="..." />
+                <marker date="1501060835656" expanded="true" signature="5014:5400" ph="..." />
+                <marker date="1501060835656" expanded="true" signature="5203:5400" ph="..." />
+                <marker date="1501060835656" expanded="true" signature="5312:5400" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="7.25.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/afternoon/7.25.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="11" column="10" lean-forward="false" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="添加学生成绩.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/html/bootstrap-resume-starting-point/学生成绩单/HTML/添加学生成绩.html">
+      <file leaf-file-name="display.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/学生成绩单/studentgradesystem/display.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/app.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1620">
-              <caret line="90" column="0" lean-forward="false" selection-start-line="90" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
+            <state relative-caret-position="54">
+              <caret line="3" column="37" lean-forward="false" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -59,8 +110,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/html/bootstrap-resume-starting-point/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="11" lean-forward="false" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+            <state relative-caret-position="522">
+              <caret line="29" column="25" lean-forward="false" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -93,6 +144,16 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="7.25-2.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/afternoon/7.25-2.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="4" column="20" lean-forward="false" selection-start-line="2" selection-start-column="4" selection-end-line="7" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="resume.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/html/resume.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -118,8 +179,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -137,7 +198,6 @@
         <option value="$PROJECT_DIR$/main.js" />
         <option value="$PROJECT_DIR$/html/resume.html" />
         <option value="$PROJECT_DIR$/html/task.html" />
-        <option value="$PROJECT_DIR$/html/bootstrap-resume-starting-point/index.html" />
         <option value="$PROJECT_DIR$/html/printreport.html" />
         <option value="$PROJECT_DIR$/学生成绩web/HTml/index.html" />
         <option value="$PROJECT_DIR$/html/bootstrap-resume-starting-point/bootstrap-3.3.7-dist/学生成绩单/printreport.html" />
@@ -145,7 +205,14 @@
         <option value="$PROJECT_DIR$/afternoon/7.24.js" />
         <option value="$PROJECT_DIR$/html/bootstrap-resume-starting-point/学生成绩单/HTML/添加学生成绩.html" />
         <option value="$PROJECT_DIR$/src/app.js" />
+        <option value="$PROJECT_DIR$/afternoon/7.25.js" />
+        <option value="$PROJECT_DIR$/afternoon/7.25-2.js" />
+        <option value="$PROJECT_DIR$/html/bootstrap-resume-starting-point/学生成绩单/HTML/display.js" />
+        <option value="$PROJECT_DIR$/html/bootstrap-resume-starting-point/index.html" />
+        <option value="$PROJECT_DIR$/afternoon/7.26.js" />
+        <option value="$PROJECT_DIR$/html/bootstrap-resume-starting-point/学生成绩单/HTML/1.html" />
         <option value="$PROJECT_DIR$/html/bootstrap-resume-starting-point/学生成绩单/HTML/printreport.html" />
+        <option value="$PROJECT_DIR$/html/bootstrap-resume-starting-point/学生成绩单/HTML/ADDSTUDENT.js" />
       </list>
     </option>
   </component>
@@ -205,75 +272,21 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="smallprogame" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="smallprogame" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="smallprogame" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="smallprogame" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="html" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="smallprogame" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="smallprogame" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="html" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bootstrap-resume-starting-point" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="smallprogame" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="smallprogame" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="html" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bootstrap-resume-starting-point" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="学生成绩单" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="HTML" />
+              <option name="myItemId" value="studentgradesystem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="smallprogame" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="smallprogame" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -293,13 +306,14 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/html/bootstrap-resume-starting-point/学生成绩单/HTML" />
       <recent name="$PROJECT_DIR$/html/bootstrap-resume-starting-point" />
       <recent name="$PROJECT_DIR$/html/bootstrap-resume-starting-point/bootstrap-3.3.7-dist/学生成绩单" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -314,17 +328,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.printreport.html">
-    <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/smallprogame/html/bootstrap-resume-starting-point/index.html">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JavaScript Debug.printreport.html (1)">
     <configuration default="false" name="printreport.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/smallprogame/html/bootstrap-resume-starting-point/学生成绩单/HTML/printreport.html">
       <method />
     </configuration>
-    <configuration default="false" name="index.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/smallprogame/学生成绩web/HTml/index.html">
+    <configuration default="false" name="ADDSTUDENT.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/学生成绩单/studentgradesystem/ADDSTUDENT.js" working-dir="$PROJECT_DIR$/学生成绩单/studentgradesystem">
       <method />
     </configuration>
-    <configuration default="false" name="7.24.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="7.24.js" working-dir="$PROJECT_DIR$/afternoon">
+    <configuration default="false" name="display.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/学生成绩单/studentgradesystem/display.js" working-dir="$PROJECT_DIR$/学生成绩单/studentgradesystem">
+      <method />
+    </configuration>
+    <configuration default="false" name="7.26.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="7.26.js" working-dir="$PROJECT_DIR$/afternoon">
+      <method />
+    </configuration>
+    <configuration default="false" name="printreport.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/smallprogame/学生成绩单/studentgradesystem/printreport.html">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -396,20 +413,21 @@
     <configuration default="false" name="app.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" path-to-js-file="$PROJECT_DIR$/src/app.js" working-dir="$PROJECT_DIR$/src">
       <method />
     </configuration>
-    <list size="5">
+    <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Node.js.app.js" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.printreport.html" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.7.24.js" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.printreport.html" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.ADDSTUDENT.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.display.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.7.26.js" />
+      <item index="5" class="java.lang.String" itemvalue="JavaScript Debug.printreport.html (1)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.printreport.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.printreport.html (1)" />
         <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.printreport.html" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.7.24.js" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.7.26.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.ADDSTUDENT.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.display.js" />
       </list>
     </recent_temporary>
   </component>
@@ -434,20 +452,24 @@
       <workItem from="1500689782206" duration="65000" />
       <workItem from="1500797232987" duration="524000" />
       <workItem from="1500798625491" duration="29834000" />
-      <workItem from="1500945928403" duration="2095000" />
+      <workItem from="1500945928403" duration="26579000" />
+      <workItem from="1500994601827" duration="575000" />
+      <workItem from="1501033813452" duration="22083000" />
+      <workItem from="1501120624965" duration="2391000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="111946000" />
+    <option name="totallyTimeSpent" value="161479000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="64" y="-11" width="1303" height="780" extended-state="7" />
+    <frame x="64" y="-11" width="1303" height="780" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25390625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36671802" sideWeight="0.503125" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32973805" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30662557" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -460,7 +482,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -477,65 +498,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/html/bootstrap-resume-starting-point/06.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/bootstrap-resume-starting-point/09.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/bootstrap-resume-starting-point/08.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/bootstrap-resume-starting-point/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="42" column="37" lean-forward="true" selection-start-line="42" selection-start-column="37" selection-end-line="42" selection-end-column="37" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#5266#5274#1" expanded="true" />
-            <element signature="e#5358#5366#1" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main2.js" />
-    <entry file="file://$PROJECT_DIR$/package.json" />
-    <entry file="file://$PROJECT_DIR$/html/smallprogram.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/main.js" />
     <entry file="file://$PROJECT_DIR$/html/resume.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -549,16 +511,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2628">
           <caret line="146" column="0" lean-forward="true" selection-start-line="146" selection-start-column="0" selection-end-line="146" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#h1#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#h1#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#h1#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#2;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#div#2;n#div#2;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#div#3;n#div#2;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#h2#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -584,16 +536,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1692">
           <caret line="94" column="58" lean-forward="false" selection-start-line="94" selection-start-column="58" selection-end-line="94" selection-end-column="58" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#h1#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#h1#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#h1#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#2;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#div#2;n#div#2;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#div#3;n#div#2;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#h2#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -686,16 +628,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="104">
           <caret line="62" column="27" lean-forward="false" selection-start-line="62" selection-start-column="27" selection-end-line="62" selection-end-column="27" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#h1#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#h1#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#h1#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#2;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#div#2;n#div#2;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#div#3;n#div#2;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#h2#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -752,10 +684,57 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/afternoon/7.24.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="18" lean-forward="false" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/bootstrap-resume-starting-point/学生成绩单/HTML/添加学生成绩.html" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/HTML5.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="1496" column="0" lean-forward="false" selection-start-line="1496" selection-start-column="0" selection-end-line="1496" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="16" column="8" lean-forward="false" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/afternoon/7.25.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="10" lean-forward="false" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/afternoon/7.25-2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="20" lean-forward="false" selection-start-line="2" selection-start-column="4" selection-end-line="7" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/afternoon/7.26.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/html/bootstrap-resume-starting-point/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="11" lean-forward="false" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+        <state relative-caret-position="522">
+          <caret line="29" column="25" lean-forward="false" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -787,34 +766,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/afternoon/7.24.js">
+    <entry file="file://$PROJECT_DIR$/学生成绩单/studentgradesystem/1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="18" lean-forward="false" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/bootstrap-resume-starting-point/学生成绩单/HTML/添加学生成绩.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+        <state relative-caret-position="378">
+          <caret line="21" column="6" lean-forward="false" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app.js">
+    <entry file="file://$PROJECT_DIR$/学生成绩单/studentgradesystem/ADDSTUDENT.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1620">
-          <caret line="90" column="0" lean-forward="false" selection-start-line="90" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
+        <state relative-caret-position="-1234">
+          <caret line="22" column="36" lean-forward="false" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+          <folding>
+            <marker date="1501060835656" expanded="true" signature="1081:1497" ph="..." />
+            <marker date="1501060835656" expanded="true" signature="1270:1497" ph="..." />
+            <marker date="1501060835656" expanded="true" signature="1922:2338" ph="..." />
+            <marker date="1501060835656" expanded="true" signature="2111:2338" ph="..." />
+            <marker date="1501060835656" expanded="true" signature="2177:2338" ph="..." />
+            <marker date="1501060835656" expanded="true" signature="2740:3156" ph="..." />
+            <marker date="1501060835656" expanded="true" signature="2929:3156" ph="..." />
+            <marker date="1501060835656" expanded="true" signature="5014:5400" ph="..." />
+            <marker date="1501060835656" expanded="true" signature="5203:5400" ph="..." />
+            <marker date="1501060835656" expanded="true" signature="5312:5400" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学生成绩单/studentgradesystem/display.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="37" lean-forward="false" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/bootstrap-resume-starting-point/学生成绩单/HTML/printreport.html">
+    <entry file="file://$PROJECT_DIR$/学生成绩单/studentgradesystem/printreport.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-105">
-          <caret line="122" column="33" lean-forward="true" selection-start-line="122" selection-start-column="33" selection-end-line="122" selection-end-column="33" />
-          <folding />
+        <state relative-caret-position="144">
+          <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#1;n#form#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#2;n#form#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#3;n#form#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#4;n#form#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#5;n#form#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

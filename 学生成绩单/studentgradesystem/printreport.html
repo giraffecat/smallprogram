@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/html">
+<head>
+    <meta charset="UTF-8">
+        <link rel="stylesheet" href="../../html/bootstrap-resume-starting-point/bootstrap-3.3.7-dist/css/bootstrap.css">
+        <script src="../../html/bootstrap-resume-starting-point/jquery-3.2.1.js"></script>
+        <script src="../../html/bootstrap-resume-starting-point/bootstrap-3.3.7-dist/js/bootstrap.js"></script>
+</head>
+<body>
+
+<h2 align="center"><strong>学生成绩查询系统</strong></h2><hr/>
+<div class="tabbable"> <!-- Only required for left/right tabs -->
+    <ul class="nav nav-pills ">
+        <li>                            </li>
+        <li></li>
+        <li class="active"><a href="#studentsheet" data-toggle="tab">成绩表</a></li>
+        <li><a href="#studentadd" data-toggle="tab">添加</a></li>
+        <li><a href="#searchid" data-toggle="tab">查询</a></li>
+    </ul>
+<!--学生成绩表格-->
+    <div class="tab-content">
+<script src="display.js">
+</script>
+<div class="tab-pane active fade"  id="studentsheet" align="center">
+    <h2>学生成绩表单</h2>
+    <table class="table table-hover" id="tableid">
+        <thead>
+        <tr>
+            <th>#</th>
+            <th>Studentname</th>
+            <th>Math</th>
+            <th>Chinese</th>
+            <th>English</th>
+            <th>Program</th>
+            <th>total points</th>
+            <th>delete</th>
+        </tr>
+        </thead>
+        <tbody id="tbody">
+        <tr>
+            <td>1</td>
+            <td>Anna</td>
+            <td>80</td>
+            <td>80</td>
+            <td>80</td>
+            <td>80</td>
+            <td>80</td>
+            <td><button name="delate" value="delate" class="btn btn-danger btn-sm"  onclick="deleteRow(this)">delate</button></td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Debbie</td>
+            <td>80</td>
+            <td>80</td>
+            <td>80</td>
+            <td>80</td>
+            <td>80</td>
+            <td><button name="delate" value="delate" class="btn btn-danger btn-sm" onclick="deleteRow(this)" >delate</button></td>
+
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>John</td>
+            <td>80</td>
+            <td>80</td>
+            <td>80</td>
+            <td>80</td>
+            <td>80</td>
+            <td><button name="delate" value="delate" class="btn btn-danger btn-sm" onclick="deleteRow(this)">delate</button></td>
+        </tr>
+        </tbody>
+    </table>
+
+<p style="text-align:center" ><button type="button" class="btn btn-primary"  onclick="showstudent()">更新学生成绩表</button></p>
+</div>
+<script src="ADDSTUDENT.js">
+</script>
+<div class="tab-pane active fade" id="studentadd" align="center">
+    <h2>添加学生成绩</h2>
+    <div class="form-group has-success has-feedback">
+    <form name="textform" onsubmit="Addstudent()">
+     Student number:<br><input class="form-control" type="number" max="100" min="0" name="Studentnumber" id="studentnumber"style="width: 200px">
+            name:<br><input class="form-control" type="text" name="Studentname" id="student.name"style="width: 200px">
+        Chinese:<br><input class="form-control" type="number" aria-valuemax="100" min="0" name="Chinese" id="studentChinese"style="width: 200px">
+        Math:<br><input class="form-control" type="number"max="100" min="0" name="Math" id="studentMath"style="width:200px">
+        English:<br><input class="form-control" type="number" max="100" min="0" name="English" id="studentEnglish"style="width: 200px">
+        Program:<br><input class="form-control" type="number" max="100" min="0" name="Program" id="studentprogram"style="width: 200px">
+        <input type="submit" value="Submit" class="btn btn-primary"  >
+        <hr/>
+    </form>
+    </div>
+</div>
+<div class="tab-pane active fade" align="center" id="searchid">
+    <h2>查询学生成绩</h2>
+    <input  class="form-control" type="number" id="searchnumber" name="searchnumber" style="width:200px"><input type="button" value="确定" class="btn btn-primary" onclick="searchstudent()">
+    <table class="table table-hover" id="searchtableid">
+        <thead>
+        <tr>
+            <th>#</th>
+            <th>Studentname</th>
+            <th>Math</th>
+            <th>Chinese</th>
+            <th>English</th>
+            <th>Program</th>
+            <th>total points</th>
+        </tr>
+        </thead>
+        <tbody id="tbody2">
+
+        </tbody>
+    </table>
+    <button class="btn btn-primary" onclick="empty()">清空</button>
+</div>
+    </div>
+</div>
+</body>
+</html>
